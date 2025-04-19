@@ -1,8 +1,7 @@
-Absolutely! Here's the **full, ready-to-paste GitHub `README.md` code** with clean formatting and no bugs — just copy and paste it directly into your GitHub repository:
 
----
 
-```markdown
+
+
 # 🦴 Bone Fracture Detection
 
 An AI-powered system to automatically detect bone fractures in X-ray images using deep learning techniques. This tool can assist radiologists and healthcare professionals in diagnosing fractures with improved speed and accuracy.
@@ -49,7 +48,7 @@ An AI-powered system to automatically detect bone fractures in X-ray images usin
 
 ## 📁 Project Structure
 
-```bash
+
 Bone-Fracture-Detection/
 ├── dataset/                # X-ray images (train/test)
 ├── models/                 # Trained model files (.h5 or .pth)
@@ -60,7 +59,7 @@ Bone-Fracture-Detection/
 ├── train.py                # Script to train the model
 ├── requirements.txt        # Project dependencies
 └── README.md               # This file
-```
+
 
 ---
 
