@@ -166,8 +166,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-- **Author:** Your Name  
-- **GitHub:** [@yourusername](https://github.com/yourusername)  
+- **Author:** Krish Garg 
+- **GitHub:** [@KrishGarg001](https://github.com/KrishGarg001)  
 - **Email:** your.email@example.com  
 
 ---
