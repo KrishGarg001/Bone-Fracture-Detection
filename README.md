@@ -1,7 +1,3 @@
-
-
-
-
 # 🦴 Bone Fracture Detection
 
 An AI-powered system to automatically detect bone fractures in X-ray images using deep learning techniques. This tool can assist radiologists and healthcare professionals in diagnosing fractures with improved speed and accuracy.
@@ -162,17 +158,3 @@ Contributions are welcome! Please open an issue first to discuss your ideas or c
 - **Author:** Krish Garg 
 - **GitHub:** [@KrishGarg001](https://github.com/KrishGarg001)  
 - **Email:** zexuxkrish123@gmail.com  
-
----
-
-*Made with ❤️ for healthcare innovation*
-```
-
----
-
-Let me know if you'd like me to:
-- Auto-fill your name, GitHub username, or email.
-- Extract actual model info and training results from your code.
-- Add GitHub badges at the top (like Python version, license, etc.)
-
-Just say the word and I’ll tweak it perfectly for you!
