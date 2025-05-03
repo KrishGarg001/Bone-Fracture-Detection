@@ -19,7 +19,6 @@ An AI-powered system to automatically detect bone fractures in X-ray images usin
 - [Dataset](#dataset)
 - [Sample Output](#sample-output)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -158,17 +157,11 @@ Contributions are welcome! Please open an issue first to discuss your ideas or c
 
 ---
 
-## 🛡️ License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📬 Contact
 
 - **Author:** Krish Garg 
 - **GitHub:** [@KrishGarg001](https://github.com/KrishGarg001)  
-- **Email:** your.email@example.com  
+- **Email:** zexuxkrish123@gmail.com  
 
 ---
 
